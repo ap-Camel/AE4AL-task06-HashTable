@@ -1,18 +1,10 @@
-## Getting Started
+# Hash table
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## task description
 
-## Folder Structure
+Compare the time it takes to process a huge clear text file (e.g.  KingJames_Bible.zip) by the "Histogram of words in text files" using the HashTable data structure vs. the LinkedList or DynamicArray data structures.
 
-The workspace contains two folders by default, where:
+## note
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+this code is different than what was done in class, I created the Hash table code myself
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
